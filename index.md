@@ -1,24 +1,25 @@
-<div style="display: flex; align-items: center; margin-top: 20px;">
-    <!-- Left side: Text content -->
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <!-- Left: Profile description -->
     <div style="flex: 1; padding-right: 20px;">
-        # Hello, I'm Naga Dheeraj Biddala!
+        <h1>Hello, I'm Naga Dheeraj Biddala!</h1>
+        <p>Welcome to my GitHub Pages website. Here, you'll find an overview of my work and experiences as a DevOps Engineer. Use the links below to navigate through various sections of my personal website to learn more about me.</p>
 
-        Welcome to my GitHub Pages website. Here, you'll find an overview of my work and experiences as a DevOps Engineer. Use the links below to navigate through various sections of my personal website to learn more about me.
+        <h2>Sections:</h2>
+        <ul>
+            <li><a href="/about/">About Me</a></li>
+            <li><a href="/work-experience/">Work Experience</a></li>
+            <li><a href="/certifications/">Certifications</a></li>
+            <li><a href="/education/">Education</a></li>
+            <li><a href="/skills/">Skills</a></li>
+            <li><a href="https://www.linkedin.com/in/your-profile" target="_blank">LinkedIn Profile</a></li>
+            <li><a href="/contact/">Contact</a></li>
+        </ul>
 
-        ## Sections:
-        - [About Me](/about/)
-        - [Work Experience](/work-experience/)
-        - [Certifications](/certifications/)
-        - [Education](/education/)
-        - [Skills](/skills/)
-        - [LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-        - [Contact](/contact/)
-
-        Feel free to explore and reach out if you'd like to connect!
+        <p>Feel free to explore and reach out if you'd like to connect!</p>
     </div>
 
-    <!-- Right side: Profile picture -->
-    <div style="flex: 0.5; text-align: center;">
-        <img src="/assets/images/profile.jpg" alt="Profile Picture" width="250" style="border-radius: 50%;">
+    <!-- Right: Profile picture -->
+    <div style="flex: 0.3; text-align: right;">
+        <img src="/assets/images/profile.jpg" alt="Profile Picture" width="200" style="border-radius: 50%;">
     </div>
 </div>
