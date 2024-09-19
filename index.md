@@ -20,6 +20,6 @@
 
     <!-- Right: Profile picture -->
     <div style="flex: 0.3; text-align: right;">
-        <img src="/assets/images/profile.jpg" alt="Profile Picture" width="200" style="border-radius: 50%;">
+        <img src="https://github.com/nagadheerajb/resume/blob/main/assets/images/profile.jpg?raw=true" alt="Profile Picture" width="200" style="border-radius: 50%;">
     </div>
 </div>
