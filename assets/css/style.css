@@ -65,3 +65,255 @@ footer {
     padding-bottom: 5px;
     margin-bottom: 15px;
 }
+
+/* Work Experience Page Styles */
+.work-experience-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
+
+.work-experience-header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.work-experience-header h1 {
+    font-size: 2.5em;
+    color: #333;
+    margin: 0;
+}
+
+.work-experience-header p {
+    font-size: 1.2em;
+    color: #666;
+}
+
+.work-experience-section {
+    margin-bottom: 40px;
+}
+
+.work-experience-section h2 {
+    font-size: 1.8em;
+    color: #444;
+    border-bottom: 2px solid #007bff;
+    padding-bottom: 5px;
+    margin-bottom: 15px;
+}
+
+.work-experience-section ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+.work-experience-section li {
+    margin-bottom: 10px;
+}
+
+/* Education Page Styles */
+.education-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
+
+.education-header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.education-header h1 {
+    font-size: 2.5em;
+    color: #333;
+    margin: 0;
+}
+
+.education-header p {
+    font-size: 1.2em;
+    color: #666;
+}
+
+.education-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.education-list li {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    padding: 15px;
+    font-size: 1.1em;
+}
+
+.education-list li h2 {
+    font-size: 1.5em;
+    color: #444;
+    margin: 0;
+}
+
+.education-list li p {
+    color: #666;
+}
+
+/* Skills Page Styles */
+.skills-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
+
+.skills-header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.skills-header h1 {
+    font-size: 2.5em;
+    color: #333;
+    margin: 0;
+}
+
+.skills-header p {
+    font-size: 1.2em;
+    color: #666;
+}
+
+.skills-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+    list-style: none;
+    padding: 0;
+}
+
+.skills-list li {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 1.1em;
+    color: #444;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.skills-list li:hover {
+    background-color: #007bff;
+    color: #fff;
+}
+
+/* Certifications Page Styles */
+.certifications-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
+
+.certifications-header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.certifications-header h1 {
+    font-size: 2.5em;
+    color: #333;
+    margin: 0;
+}
+
+.certifications-header p {
+    font-size: 1.2em;
+    color: #666;
+}
+
+.certifications-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.certifications-list li {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    padding: 15px;
+    font-size: 1.1em;
+    color: #444;
+    position: relative;
+}
+
+.certifications-list li h2 {
+    font-size: 1.5em;
+    color: #444;
+    margin: 0;
+}
+
+.certifications-list li p {
+    color: #666;
+    margin: 5px 0;
+}
+
+.certifications-list li a {
+    color: #007bff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.certifications-list li a:hover {
+    text-decoration: underline;
+}
+
+/* Contact Page Styles */
+.contact-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
+
+.contact-header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.contact-header h1 {
+    font-size: 2.5em;
+    color: #333;
+    margin: 0;
+}
+
+.contact-header p {
+    font-size: 1.2em;
+    color: #666;
+}
+
+.contact-info {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.contact-info li {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    padding: 15px;
+    font-size: 1.2em;
+    color: #444;
+}
+
+.contact-info li a {
+    color: #007bff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.contact-info li a:hover {
+    text-decoration: underline;
+}

@@ -3,7 +3,14 @@ layout: default
 title: Contact
 ---
 
-# Contact Details
+<div class="contact-container">
+  <div class="contact-header">
+    <h1>Contact Details</h1>
+    <p>Feel free to reach out to me through the following channels:</p>
+  </div>
 
-- **Email:** your.email@example.com
-- **Phone:** +1234567890
+  <ul class="contact-info">
+    <li><strong>Email:</strong> <a href="mailto:your.email@example.com">your.email@example.com</a></li>
+    <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/nagadheerajbiddala/" target="_blank" rel="noopener noreferrer">View LinkedIn Profile</a></li>
+  </ul>
+</div>
