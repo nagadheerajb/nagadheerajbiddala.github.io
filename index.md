@@ -6,13 +6,13 @@
 
         <h2>Sections:</h2>
         <ul>
-            <li><a href="/aboutme/">About Me</a></li>
-            <li><a href="/work-experience/">Work Experience</a></li>
-            <li><a href="/certifications/">Certifications</a></li>
-            <li><a href="/education/">Education</a></li>
-            <li><a href="/skills/">Skills</a></li>
+            <li><a href="/resume/aboutme/">About Me</a></li>
+            <li><a href="/resume/work-experience/">Work Experience</a></li>
+            <li><a href="/resume/certifications/">Certifications</a></li>
+            <li><a href="/resume/education/">Education</a></li>
+            <li><a href="/resume/skills/">Skills</a></li>
             <li><a href="https://www.linkedin.com/in/your-profile" target="_blank">LinkedIn Profile</a></li>
-            <li><a href="/contact/">Contact</a></li>
+            <li><a href="/resume/contact/">Contact</a></li>
         </ul>
 
         <p>Feel free to explore and reach out if you'd like to connect!</p>
