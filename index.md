@@ -11,7 +11,7 @@
             <li><a href="/certifications/">Certifications</a></li>
             <li><a href="/education/">Education</a></li>
             <li><a href="/skills/">Skills</a></li>
-            <li><a href="https://www.linkedin.com/in/your-profile" target="_blank" rel="noopener noreferrer">LinkedIn Profile</a></li>
+            <li><a href="https://www.linkedin.com/in/your-profile" target="_blank">LinkedIn Profile</a></li>
             <li><a href="/contact/">Contact</a></li>
         </ul>
 
