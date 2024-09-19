@@ -1,3 +1,28 @@
-body { font-family: Arial, sans-serif; }
-header { background-color: #4CAF50; color: white; text-align: center; padding: 20px; }
-footer { margin-top: 20px; padding: 10px; background-color: #333; color: white; text-align: center; }
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 0 15px;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #333;
+    color: white;
+    text-align: center;
+}
