@@ -10,7 +10,7 @@ title: Contact
   </div>
 
   <ul class="contact-info">
-    <li><strong>Email:</strong> <a href="mailto:your.email@example.com">your.email@example.com</a></li>
+    <li><strong>Email:</strong> <a href="mailto:your.email@example.com">nagadheerajb@gmail.com</a></li>
     <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/nagadheerajbiddala/" target="_blank" rel="noopener noreferrer">View LinkedIn Profile</a></li>
   </ul>
 </div>
